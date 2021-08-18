@@ -25,5 +25,5 @@
 먼저 가장 Raw한 코드를 최대한 대충 (무지성으로) 코드를 작성하는 것을 목표로 하였다. 그리고 주마다 책을 읽어나가면서 그 개념을 붙여보고, 생각을 정리하고 서로 피드백을 주는 방식으로 스터디를 진행하였다.
 
 ## 1주차 (서론 ~ 2장)
-> [1주차 내용 정리](https://albi-tech.tistory.com/5)
-> [1주차 코드](https://albi-tech.tistory.com/6)
+[1주차 내용 정리](https://albi-tech.tistory.com/5)
+[1주차 코드](https://albi-tech.tistory.com/6)

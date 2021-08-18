@@ -7,8 +7,9 @@
 
 import Foundation
 
-let calculate = Calculate(input: CommandInput(), output: CommandOutput())
-calculate.run()
+//let calculator = Calculator(input: CommandInput(), output: CommandOutput())
+let calculator = Calculator(input: TestInput(), output: CommandOutput())
+calculator.run()
 
 
 

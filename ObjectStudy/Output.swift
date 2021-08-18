@@ -7,7 +7,10 @@
 
 import Foundation
 
-class CommandOutput {
+protocol Output {
+    func printf(_: String)
+}
+class CommandOutput: Output {
     init() {}
     
     func printf(_ item: String) {

@@ -8,10 +8,10 @@
 import Foundation
 
 class Calculator {
-    var input: CommandInput
-    var output: CommandOutput
+    var input: Input
+    var output: Output
     
-    internal init(input: CommandInput, output: CommandOutput) {
+    internal init(input: Input, output: Output) {
         self.input = input
         self.output = output
     }

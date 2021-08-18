@@ -7,7 +7,7 @@
 
 import Foundation
 
-let calculate = Calculate()
+let calculate = Calculate(input: CommandInput(), output: CommandOutput())
 calculate.run()
 
 

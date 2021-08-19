@@ -11,6 +11,7 @@
 		DDE85F6B26CC2AC400C47B21 /* Input.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDE85F6A26CC2AC400C47B21 /* Input.swift */; };
 		DDE85F6D26CC341100C47B21 /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDE85F6C26CC341100C47B21 /* Calculator.swift */; };
 		DDE85F6F26CC36B300C47B21 /* Output.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDE85F6E26CC36B300C47B21 /* Output.swift */; };
+		DDE85F7126CCEA6900C47B21 /* Alice.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDE85F7026CCEA6900C47B21 /* Alice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		DDE85F6A26CC2AC400C47B21 /* Input.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Input.swift; sourceTree = "<group>"; };
 		DDE85F6C26CC341100C47B21 /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
 		DDE85F6E26CC36B300C47B21 /* Output.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Output.swift; sourceTree = "<group>"; };
+		DDE85F7026CCEA6900C47B21 /* Alice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				DDE85F6C26CC341100C47B21 /* Calculator.swift */,
 				DDE85F6E26CC36B300C47B21 /* Output.swift */,
 				DDE85F6326CA57EA00C47B21 /* main.swift */,
+				DDE85F7026CCEA6900C47B21 /* Alice.swift */,
 			);
 			path = ObjectStudy;
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDE85F7126CCEA6900C47B21 /* Alice.swift in Sources */,
 				DDE85F6D26CC341100C47B21 /* Calculator.swift in Sources */,
 				DDE85F6B26CC2AC400C47B21 /* Input.swift in Sources */,
 				DDE85F6F26CC36B300C47B21 /* Output.swift in Sources */,

@@ -28,3 +28,6 @@
 - [1주차 내용 정리](https://albi-tech.tistory.com/5)
 - [1주차 코드](https://albi-tech.tistory.com/6)
 
+## 2주차 (3장 ~ 4장)
+- [2주차 내용 정리](https://albi-tech.tistory.com/8)
+
